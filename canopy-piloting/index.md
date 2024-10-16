@@ -1,6 +1,6 @@
 # Canopy Piloting
 
-[**S**kydiver's **I**nformation **M**anual - Section 6-10 Canopy Flight Fundamentals](SIM-6-10-canopy-flight-fundamentals.md)
+[**SIM** - Section 6-10 Canopy Flight Fundamentals](SIM-6-10-canopy-flight-fundamentals.md)
 
 ## Landing Pattern
 
